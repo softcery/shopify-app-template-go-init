@@ -1,0 +1,8 @@
+{
+  "name": "@softcerycom/shopify-app-template-go-init",
+  "version": "3.1.2",
+  "bin": "index.js",
+  "dependencies": {
+    "simple-git": "^3.16.1"
+  }
+}
